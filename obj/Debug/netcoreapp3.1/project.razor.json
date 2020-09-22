@@ -45,105 +45,6 @@
         }
       },
       {
-        "HashCode": -1051532083,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Pages.Error",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Error"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Pages.Error"
-        }
-      },
-      {
-        "HashCode": 1761269162,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Pages.Error",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServer.Pages.Error"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Pages.Error",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -964715758,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Pages.FetchData",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -54791150,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Pages.FetchData",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServer.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 523912675,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Pages.Index",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 35328444,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Pages.Index",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServer.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -963094403,
         "Kind": "Components.Component",
         "Name": "BlazorServer.Shared.MainLayout",
@@ -322,6 +223,171 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServer.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 260032237,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Counter",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -2130744060,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Counter",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 523912675,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Index",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 35328444,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Index",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1051532083,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Error",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Error"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Error"
+        }
+      },
+      {
+        "HashCode": 1761269162,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Error",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.Pages.Error"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Error",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -964715758,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.FetchData",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -54791150,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.FetchData",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -678460005,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Interview",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Interview"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Interview"
+        }
+      },
+      {
+        "HashCode": -1345523558,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Pages.Interview",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.Pages.Interview"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Pages.Interview",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
