@@ -1,6 +1,5 @@
 D:\IT\blazorserver\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\IT\blazorserver\bin\Debug\netcoreapp3.1\appsettings.json
-D:\IT\blazorserver\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\IT\blazorserver\bin\Debug\netcoreapp3.1\BlazorServer.exe
 D:\IT\blazorserver\bin\Debug\netcoreapp3.1\BlazorServer.deps.json
 D:\IT\blazorserver\bin\Debug\netcoreapp3.1\BlazorServer.runtimeconfig.json
@@ -49,3 +48,7 @@ D:\IT\blazorserver\obj\Debug\netcoreapp3.1\BlazorServer.pdb
 D:\IT\blazorserver\obj\Debug\netcoreapp3.1\BlazorServer.csproj.CopyComplete
 D:\IT\blazorserver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Interview.razor.g.cs
 D:\IT\blazorserver\obj\Debug\netcoreapp3.1\Razor\Pages\Interview.razor.g.cs
+D:\IT\BlazorServer\obj\Debug\netcoreapp3.1\BlazorServer.csproj.CoreCompileInputs.cache
+D:\IT\BlazorServer\obj\Debug\netcoreapp3.1\BlazorServer.RazorComponent.output.cache
+D:\IT\BlazorServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorServer.styles.css
+D:\IT\BlazorServer\obj\Debug\netcoreapp3.1\BlazorServer.genruntimeconfig.cache
